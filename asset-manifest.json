@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shivamOne/food.git/static/css/main.2b998787.css",
+    "main.js": "/shivamOne/food.git/static/js/main.54d2924c.js",
+    "static/js/787.3adb45fa.chunk.js": "/shivamOne/food.git/static/js/787.3adb45fa.chunk.js",
+    "index.html": "/shivamOne/food.git/index.html",
+    "main.2b998787.css.map": "/shivamOne/food.git/static/css/main.2b998787.css.map",
+    "main.54d2924c.js.map": "/shivamOne/food.git/static/js/main.54d2924c.js.map",
+    "787.3adb45fa.chunk.js.map": "/shivamOne/food.git/static/js/787.3adb45fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b998787.css",
+    "static/js/main.54d2924c.js"
+  ]
+}
